@@ -1,0 +1,247 @@
+[
+    {
+        "location": "Bath",
+        "date": 3,
+        "sales": 3869.92
+    },
+    {
+        "location": "Bath",
+        "date": 4,
+        "sales": 4000.21
+    },
+    {
+        "location": "Bath",
+        "date": 5,
+        "sales": 4171.14
+    },
+    {
+        "location": "Bath",
+        "date": 6,
+        "sales": 4406.35
+    },
+    {
+        "location": "Bath",
+        "date": 7,
+        "sales": 4192.6
+    },
+    {
+        "location": "Bath",
+        "date": 8,
+        "sales": 4256
+    },
+    {
+        "location": "Bath",
+        "date": 9,
+        "sales": 4817.66
+    },
+    {
+        "location": "Birmingham",
+        "date": 3,
+        "sales": 1419.28
+    },
+    {
+        "location": "Birmingham",
+        "date": 4,
+        "sales": 1943.44
+    },
+    {
+        "location": "Birmingham",
+        "date": 5,
+        "sales": 1589.2
+    },
+    {
+        "location": "Birmingham",
+        "date": 6,
+        "sales": 1794.82
+    },
+    {
+        "location": "Birmingham",
+        "date": 7,
+        "sales": 1663.37
+    },
+    {
+        "location": "Birmingham",
+        "date": 8,
+        "sales": 1513.72
+    },
+    {
+        "location": "Birmingham",
+        "date": 9,
+        "sales": 1431.97
+    },
+    {
+        "location": "Bristol",
+        "date": 3,
+        "sales": 583.27
+    },
+    {
+        "location": "Bristol",
+        "date": 4,
+        "sales": 682.8
+    },
+    {
+        "location": "Bristol",
+        "date": 5,
+        "sales": 553.07
+    },
+    {
+        "location": "Bristol",
+        "date": 6,
+        "sales": 814.4
+    },
+    {
+        "location": "Bristol",
+        "date": 7,
+        "sales": 869.24
+    },
+    {
+        "location": "Bristol",
+        "date": 8,
+        "sales": 1037.53
+    },
+    {
+        "location": "Bristol",
+        "date": 9,
+        "sales": 775.51
+    },
+    {
+        "location": "Kensington",
+        "date": 3,
+        "sales": 3221.56
+    },
+    {
+        "location": "Kensington",
+        "date": 4,
+        "sales": 3206.64
+    },
+    {
+        "location": "Kensington",
+        "date": 5,
+        "sales": 3099.49
+    },
+    {
+        "location": "Kensington",
+        "date": 6,
+        "sales": 3084.97
+    },
+    {
+        "location": "Kensington",
+        "date": 7,
+        "sales": 3236.17
+    },
+    {
+        "location": "Kensington",
+        "date": 8,
+        "sales": 3048.7
+    },
+    {
+        "location": "Kensington",
+        "date": 9,
+        "sales": 3291.08
+    },
+    {
+        "location": "Leeds",
+        "date": 3,
+        "sales": 2311.54
+    },
+    {
+        "location": "Leeds",
+        "date": 4,
+        "sales": 3644.1
+    },
+    {
+        "location": "Leeds",
+        "date": 5,
+        "sales": 3507.72
+    },
+    {
+        "location": "Leeds",
+        "date": 6,
+        "sales": 4135.42
+    },
+    {
+        "location": "Leeds",
+        "date": 7,
+        "sales": 4681.39
+    },
+    {
+        "location": "Leeds",
+        "date": 8,
+        "sales": 2167.6
+    },
+    {
+        "location": "Leeds",
+        "date": 9,
+        "sales": 4313.48
+    },
+    {
+        "location": "Shoreditch",
+        "date": 3,
+        "sales": 2233.73
+    },
+    {
+        "location": "Shoreditch",
+        "date": 4,
+        "sales": 2330.95
+    },
+    {
+        "location": "Shoreditch",
+        "date": 5,
+        "sales": 2266.43
+    },
+    {
+        "location": "Shoreditch",
+        "date": 6,
+        "sales": 2149.81
+    },
+    {
+        "location": "Shoreditch",
+        "date": 7,
+        "sales": 2073.92
+    },
+    {
+        "location": "Shoreditch",
+        "date": 8,
+        "sales": 2319.98
+    },
+    {
+        "location": "Shoreditch",
+        "date": 9,
+        "sales": 2334.69
+    },
+    {
+        "location": "Soho",
+        "date": 3,
+        "sales": 1115.12
+    },
+    {
+        "location": "Soho",
+        "date": 4,
+        "sales": 1991.65
+    },
+    {
+        "location": "Soho",
+        "date": 5,
+        "sales": 1384.34
+    },
+    {
+        "location": "Soho",
+        "date": 6,
+        "sales": 1276
+    },
+    {
+        "location": "Soho",
+        "date": 7,
+        "sales": 1639.33
+    },
+    {
+        "location": "Soho",
+        "date": 8,
+        "sales": 1323.86
+    },
+    {
+        "location": "Soho",
+        "date": 9,
+        "sales": 1324.67
+    }
+]
